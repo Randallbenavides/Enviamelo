@@ -44,7 +44,7 @@ return [
             'host' => '127.0.0.1',
             'port' => 3306,
             'database' => 'tasty-database',
-            'username' => 'root',
+            'username' => 'tasty',
             'password' => 'islaperro',
             'unix_socket' => '',
             'charset' => 'utf8mb4',
